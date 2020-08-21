@@ -24,6 +24,6 @@ Check out [user manual](https://prelude.emacsredux.com) for more information.
 - Company-mode
 - Highlight bracket pair
 
-![highlight](https://drive.google.com/uc?export=view&id=1LHeYHqjtYC79oAv31fYISxycgpilnDeq)
+<img src="https://drive.google.com/uc?export=view&id=1LHeYHqjtYC79oAv31fYISxycgpilnDeq" width="60%">
 
-![cider](https://drive.google.com/uc?export=view&id=13Nkxy6yrtej6yjHAt1wYny7qd3O0K62q)
+<img src="https://drive.google.com/uc?export=view&id=13Nkxy6yrtej6yjHAt1wYny7qd3O0K62q" width="60%">
